@@ -1,0 +1,59 @@
+body{	
+	background-image: url("../gambar/windows2.jpg");
+	background-image: no-repeat;
+}
+
+.gambar{
+	margin-left: 318px;
+	margin-top: 22px;
+}
+
+.pass{
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	height: 35px;
+	width: 200px;
+	margin-bottom: 0px;
+	font-size: 30px;
+	display: hidden;
+}
+ h2 {
+ 	color :#fff;
+ 	font-family: Tahoma;
+ 	font-style: normal;
+ }
+
+.index{
+	margin-left: 500px;
+}
+
+.tombol{
+	float: center;
+	margin-left: 530px;
+	width: 300px;
+	background: black;
+	border: 4px solid #fff;
+	color: white;
+	font-size: 20px;
+	font-family: bold;
+	height: 45px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px 3px 20px 4px;
+	cursor: pointer;
+
+}
+
+input:hover[type="submit"] {
+background: #2a2a2c;
+border: 4px solid white;
+color: white;
+font-family: bold;
+}
+
+.audio{
+	color:blue;
+	float: center;
+	display: none;
+}

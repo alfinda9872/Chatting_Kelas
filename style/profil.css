@@ -1,0 +1,111 @@
+/* CSS Document */
+
+body {
+	background-image: url("../gambar/windows2.jpg");
+	font-family: Arial, Helvetica, sans-serif;
+	}
+	
+a {
+	text-decoration: none;
+	color:#ffffff;
+	
+	}
+	
+a:hover {
+	color:#ff0000;
+}
+
+td{
+	color: #ffffff;
+	width: 500px;
+	height: 50px;
+	text-transform: capitalize;
+}
+input , select , textarea{
+	margin:5px;
+	border: 1px solid #ffffff;
+}
+input[type=submit]{
+	width:100px;
+}
+input[type=reset]{
+	width:100px;
+}input[type=button]{
+	width:100px;
+}
+button{
+	width:100px;
+}
+#main_container {
+	width:950px;
+	margin:50px auto;
+	padding:0px 30px 10px 30px;
+	background:#FEFEFE;
+	box-shadow:0px 0px 15px #666;
+	border-bottom:50px solid #222;
+	}
+	
+#header {
+	padding:30px 0px;
+	background:#222;
+	}
+	
+h1 {
+	font-size:30px;
+	text-align:center;
+	font-family: Impact, Arial, Helvetica, sans-serif;
+	color:#fff;
+	}
+	
+h2 {
+	padding-left: 5px;
+	margin: 0px 0px 0px 0px;
+	color: #ffffff;
+	text-align: center;
+	}
+	
+p, table {
+	size: 10px;
+	margin:0px;
+	padding:10px;
+	text-align:justify;
+	}
+
+
+#navigation {
+	width:100%;
+	text-align:center;
+	}
+#navigation a {
+	padding:3px;
+	}
+	
+#content {
+	width:100%;
+	}
+	
+#footer {
+	width:100%;
+	border-top:  #000000 1px solid;
+	text-align:center;
+	font-size:9px;
+	}
+#tabel {
+	background-color:#ffffff;	
+	padding:2px;
+	border:1px solid #666;
+}	
+#tabel th {
+	color:#ffffff;
+	background-color:#222222;
+	padding:10px;
+	text-align:center;
+}
+#tabel td{
+	padding:10px;
+	font-size:14px;
+	color: #ffffff;
+}
+
+
+
